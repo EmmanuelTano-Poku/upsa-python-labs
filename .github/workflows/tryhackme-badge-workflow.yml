@@ -1,4 +1,6 @@
-yamlname: TryHackMe Update Badge
+yaml
+
+name: TryHackMe Update Badge
 
 on:
   schedule:
