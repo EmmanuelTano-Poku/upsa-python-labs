@@ -1,4 +1,5 @@
 yamlname: TryHackMe Update Badge
+
 on:
   schedule:
     - cron: '0 0 * * *'
