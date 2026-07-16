@@ -1,12 +1,9 @@
 yaml
-
 name: TryHackMe Update Badge
-
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   tryhackme-badge-update:
     runs-on: ubuntu-latest
@@ -15,4 +12,3 @@ jobs:
       - uses: KeizerSec/Tryhackme-Badge@main
         with:
           username: "EmmanuelTano-Poku"
-          
