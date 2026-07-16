@@ -3,4 +3,4 @@ Code repository for Level 100 ITM Python coursework at UPSA, building foundation
 
 markdown
 
-[![TryHackMe](https://amazonaws.com)](https://tryhackme.com)
+![TryHackMe Stats](https://githubusercontent.com)
