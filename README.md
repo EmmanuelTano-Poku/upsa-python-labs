@@ -2,4 +2,4 @@
 Code repository for Level 100 ITM Python coursework at UPSA, building foundational programming skills for DevSecOps.
 
 
-![TryHackMe Badge](https://tryhackme.com<EmmanuelTanoPoku>)
+
